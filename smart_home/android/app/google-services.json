@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297236782859",
+    "firebase_url": "https://low-cast-iot-home-automation.firebaseio.com",
+    "project_id": "low-cast-iot-home-automation",
+    "storage_bucket": "low-cast-iot-home-automation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297236782859:android:90c97661291a9bf7cc8c0e",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297236782859-m1p8t4qjam8hqa5huvp6ukkr62l1e3ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_home",
+            "certificate_hash": "72c4297046afb925a144f51610b135d5774eb553"
+          }
+        },
+        {
+          "client_id": "297236782859-7o86888rqbe4hh0brbikcbvc46qlel0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7URSu7qf5yGD0bX8KNJAeTBK81dOb5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297236782859-7o86888rqbe4hh0brbikcbvc46qlel0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
