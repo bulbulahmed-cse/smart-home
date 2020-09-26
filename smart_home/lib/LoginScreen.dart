@@ -70,7 +70,7 @@ class LoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FlutterLogin(
-      title: 'Smart Home',
+      title: 'Green Home',
       onLogin: _authUser,
       onSignup: _authUserRes,
       onSubmitAnimationCompleted: () {

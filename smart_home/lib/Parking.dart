@@ -58,28 +58,28 @@ class _ParkingState extends State<Parking> {
         padding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
         children: <Widget>[
           InkWell(
-            child: details('Component1', _component1),
+            child: details('Compartment1', _component1),
           ),
           InkWell(
-            child: details('Component2', _component2),
+            child: details('Compartment2', _component2),
           ),
           InkWell(
-            child: details('Component3', _component3),
+            child: details('Compartment3', _component3),
           ),
           InkWell(
-            child: details('Component4', _component4),
+            child: details('Compartment4', _component4),
           ),
           InkWell(
-            child: details('Component5', _component5),
+            child: details('Compartment5', _component5),
           ),
           InkWell(
-            child: details('Component6', _component6),
+            child: details('Compartment6', _component6),
           ),
           InkWell(
-            child: details('Component7', _component7),
+            child: details('Compartment7', _component7),
           ),
           InkWell(
-            child: details('Component8', _component8),
+            child: details('Compartment8', _component8),
           ),
         ],
         staggeredTiles: [
